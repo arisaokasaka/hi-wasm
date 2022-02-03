@@ -3,6 +3,7 @@ name = "hi-wasm"
 version = "0.1.0"
 description = "A sample project with wasm-pack"
 repository = "https://github.com/arisaokasaka/hi-wasm"
+edition = "2021"
 
 [lib]
 crate-type = ["cdylib"]

@@ -1,9 +1,9 @@
-Sample project of package targeting web made with Rust
+# Sample project of package targeting web made with Rust
 
-# Prerequisite
+## Prerequisite
 rust, cargo, wasm-pack
 
-# How to start
+## How to start
 1. Build package: `wasm-pack build --target web`
 2. Serve index.html
 
